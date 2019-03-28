@@ -1,0 +1,5 @@
+- service: service-one
+  command: true
+
+- service: service-two
+  command: true
