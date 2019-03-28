@@ -1,0 +1,9 @@
+service-one:
+  build:
+    image: docker-image-one
+    dockerfile: Dockerfile.one
+
+service-two:
+  build:
+    image: docker-image-two
+    dockerfile: Dockerfile.two
